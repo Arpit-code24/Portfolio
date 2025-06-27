@@ -1,0 +1,5 @@
+"homepage": "https://Arpit-code24.github.io/arpit-portfolio",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+}
